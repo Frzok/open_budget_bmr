@@ -1,4 +1,5 @@
-# Baltic City Financial Analysis
+
+# Balta City Financial Analysis
 
 Аналитический проект на основе финансовых данных Балтийского городского совета. Цель — выявить ключевые тенденции, визуализировать бюджетные статьи и продемонстрировать навыки работы с Python и Tableau.
 
@@ -14,7 +15,7 @@
 ## 📃 Содержимое
 
 ```
-baltic_city_financial_analysis/
+balta_city_financial_analysis/
 ├── data/                    # Данные
 │   ├── raw/                #   Сырьё
 │   └── processed/          #   Обработанные данные (Tableau-ready)
@@ -59,4 +60,3 @@ baltic_city_financial_analysis/
 ---
 
 📅 2025
-
