@@ -50,7 +50,7 @@ balta_city_financial_analysis/
 ---
 
 ## 🌐 Демо Tableau
-*Ссылка будет добавлена после публикации дашборда на Tableau Public.*
+*https://public.tableau.com/views/open_budget_bmr/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 ---
 
